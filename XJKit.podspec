@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
 
 
 s.name         = "XJKit"
-s.version      = "1.0.1"
+s.version      = "1.0.3"
 s.summary      = "a simple development tools"
 
 s.description  = <<-DESC
