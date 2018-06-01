@@ -33,7 +33,7 @@
 #define XJTopSafeMargin (XJIsIphoneX ? 24 : 0)
 
 //字体
-#defineXJFont(size)       [UIFont systemFontOfSize:size]
+#define XJFont(size)       [UIFont systemFontOfSize:size]
 #define XJWeakSelf(var)   __weak typeof(var) weakSelf = var
 #define XJStrongSelf(var) __strong typeof(var) strongSelf = var
 
